@@ -1,6 +1,6 @@
 function meuEscopo() {
     const form = document.querySelector('.form')//selecionando o formulario aravés doa classe
-    const resultado = document.querySelector('.resultado')
+    const resultado = document.querySelector('.esultado')
 
     const pessoas = []
 

@@ -1,0 +1,12 @@
+
+    OPERADORES DE COMPARAÇÃO
+    > MAIOR QUE
+    >= MARIO QUE OU IGUAL A
+    < MEnOR QUE
+    <= MENOR QUE OU IGUAL A
+    == IGUALDADE (checa valor)
+    === IGUALDADE ESTRITA (checa o valor e o tipo)
+    != DIFERENTE
+    !== DIFERENT ESTRITO
+
+

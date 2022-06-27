@@ -1,0 +1,9 @@
+&& -- AND -- E
+|| -- OR -- OU
+! -- NOT -- NÃO
+
+valores que são avaliados em falso
+
+0, " ", ' ', ` `, null, undefined, NaN 
+
+todos os valores acima são avaliados em falso, todo resto nao citado é verdadeiro

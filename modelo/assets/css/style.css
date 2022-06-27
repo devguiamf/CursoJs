@@ -1,0 +1,51 @@
+*{
+    box-sizing: border-box;
+    outline: 0;
+}
+body{  
+    margin: 0;
+    padding: 0;
+    background: rgb(34,143,195);
+    background: linear-gradient(90deg, rgba(34,143,195,1) 0%, rgba(253,45,157,1) 100%);
+    display: flex;
+    justify-content: center;  
+}
+
+.container{
+    max-width: 1000px;
+    margin: 30px auto;    
+    padding: 20px;
+    background-color: aliceblue;
+    border-radius: 5%; 
+}
+
+form input, form label, form button{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form input{
+    font-size: 24px;
+    height: 50px;
+    padding: 0 20px;
+}
+
+form input:focus{
+    outline: blue;
+}
+
+form button{
+    border: none;
+    background: rgb(34,143,195);
+    background: linear-gradient(90deg, rgba(34,143,195,1) 0%, rgba(253,45,157,1) 100%);
+    color: white;
+    font-weight: 700;
+    height: 50px;
+    cursor: pointer;
+}
+
+form button:hover{
+    background-color: brown;
+}
+
