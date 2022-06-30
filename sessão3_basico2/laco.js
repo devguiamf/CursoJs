@@ -26,6 +26,8 @@
 // }
 
 // ************************* FOR IN *********************************
+//A unica diferença com o FOR CLASSICO é que ele diminui o comando, porem o contador que controla o laço é o tamanho da variavel citada caso ela for iteravel
+
 // const frutas = ['Banana','Maçã','Pera','Uva','Melancia']
 // const pessoa = {
 //     nome: 'Guilherme',
