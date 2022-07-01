@@ -1,0 +1,47 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+
+*{
+    box-sizing: border-box;
+    outline: 0;
+}
+body{  
+    margin: 0;
+    padding: 0;
+    background: rgb(34,143,195);
+
+    display: flex;
+    justify-content: center;  
+}
+
+.container{
+    width: 600px;
+    margin: 30px auto;    
+    padding: 20px;
+    background-color: aliceblue; 
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.relogio{
+    text-align:  center;
+    font-size: 60px;
+}
+
+button{
+    align-items: center;
+    text-align: center;
+    font-size: 25px;
+    width: 10rem;
+    height: 3rem;
+    border: none;    
+    color: whitesmoke;
+    background-color: rgb(34,143,195);
+    font-weight: 700;
+    cursor: pointer;
+}
+
+.pausado{
+    color: red;
+}
+
